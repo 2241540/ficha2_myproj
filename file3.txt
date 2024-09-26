@@ -1,2 +1,6 @@
-Este é o exemplo de um ficheiro de texto file1
+Esta é uma nova linha que quero adicionar file3.txt
+
+
+Estou a adicionar outra linha para o exercicio solicitado
+
 
